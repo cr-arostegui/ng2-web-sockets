@@ -1,27 +1,27 @@
-## Client and Server with websockets
+# Client and Server with websockets
 
 ## Dependencies
 npm v4.1.2
 
 node v7.7.2
 
-# Client
+## Client
 cd client
 
 npm install
 
-# Server
+## Server
 
 cd server
 
 npm install
 
-# Run Server
+## Run Server
 cd server
 
 node server.js
 
-# Run Client
+## Run Client
 cd client
 
 ng server
