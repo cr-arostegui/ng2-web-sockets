@@ -1,5 +1,8 @@
 # Client and Server with websockets
 
+##Description
+It's a single chat application you can play with this opening 2 browsers.
+
 ## Dependencies
 npm v4.1.2
 
